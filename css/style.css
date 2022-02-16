@@ -213,7 +213,7 @@ header p {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url("./joysticks-gb44756e74_1920.jpg");
+  background-image: url("../joysticks-gb44756e74_1920.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -289,7 +289,7 @@ header .fa-chevron-down {
 
 .aboutus-hero {
   position: relative;
-  background-image: url(/img/circuit-max.jpg);
+  background-image: url("../circuit-max.jpg");
   background-size: center;
   background-size: cover;
   color: #fff;
@@ -389,7 +389,7 @@ header .fa-chevron-down {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  background-image: url(/img/iocenters-g95379dcc6_1920.jpg);
+  background-image: url(../iocenters-g95379dcc6_1920.jpg);
   z-index: 0;
 }
 
@@ -468,7 +468,7 @@ i {
 
 .contact {
   position: relative;
-  background-image: url(/img/architecture-g6c223f530_1920.jpg);
+  background-image: url(../img/architecture-g6c223f530_1920.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -547,7 +547,7 @@ i {
     font-size: 18px;
   }
   .aboutus-hero {
-    background-image: url(/circuit-min.jpg);
+    background-image: url(./circuit-min.jpg);
   }
 }
 /*# sourceMappingURL=style.css.map */
